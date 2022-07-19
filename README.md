@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">About me<br><br>I am a person who likes challenges I am studying Systems Engineering, and learning new technology, I stand out for the search to learn new things related to the world of technology<br><br>I hope that this brief introduction shows a little of what I am capable of</h2>
+<h2 align="left">About me<br><br>I am a person who likes challenges I am studying Systems Engineering, and learning new technology, I stand out for the search to learn new things related to the world of technology<br><br></h2>
 
 ###
 
