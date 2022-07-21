@@ -36,6 +36,11 @@
 
 ###
 
+## Contacto
+- 📫 [mpelagatti06@gmail.com](mailto:mpelagatti06@gmail.com)
+
+
+
 <!--
 **marioj209/marioj209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
