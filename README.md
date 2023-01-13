@@ -37,7 +37,7 @@
 ###
 
 ## e-mail
-- 📫 [mpelagatti06@gmail.com](mailto:mpelagatti06@gmail.com)
+- 📫 [pelagattimarioj@gmail.com](mailto:pelagattimarioj@gmail.com)
 
 
 
